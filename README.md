@@ -1,7 +1,7 @@
 # Angular-Basics
 
 
-`APM-Basics`: The starter files set up for use in VSCode, WebStorm, or other editors. **Use this to code along with the course**. (Updated for <i>Angular version 10 or higher</i>)
+`APM-Basics`: The starter files set up for use in VSCode, WebStorm, or other editors. (Updated for <i>Angular version 10 or higher</i>)
 
 
 See the `README.md` file under each folder for details on installing and running the application.
